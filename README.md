@@ -196,15 +196,11 @@ This creates a `build` folder with optimized production files.
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Dibyanshu Mohanty**
+- Email: dibyanshumohanty4@gmail.com
 
 ## 🙏 Acknowledgments
 
